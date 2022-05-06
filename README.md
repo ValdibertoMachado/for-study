@@ -1,5 +1,5 @@
 -for-study
 
-Learning GitHub
+-> Learning GitHub
 
 
